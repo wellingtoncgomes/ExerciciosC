@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 int main()
-{   float num1;
-    float funcao;
+{   
+    float num1, funcao;
 
     printf("Digite um numero: ");
     scanf("%f",&num1);
